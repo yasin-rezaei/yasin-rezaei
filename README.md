@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yasin+Rezaei" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yasin+Rezaei!" alt="Typing SVG" />
 </p>
 
 - 🌍 Based in *Tehran, Iran*  
@@ -32,9 +32,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasinrezaei&show_icons=true&theme=dark" alt="yasinrezaei stats"/>
-  <br />
+<!--   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinrezaei&theme=dark" alt="yasinrezaei streak"/>
-</p>
+</p> -->
 
 ---
 
