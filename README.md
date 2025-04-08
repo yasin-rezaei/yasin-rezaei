@@ -41,7 +41,7 @@
 ### 🌐 Connect with me
 
  
-<p align="left">
+<p align="center">
  <a href="https://www.linkedin.com/in/yasin-rezaei" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Linkedin"/>
   </a>
